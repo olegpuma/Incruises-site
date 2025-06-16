@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="uk">
 <head><script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <link href="https://unpkg.com/aos@next/dist/aos.css" rel="stylesheet">
