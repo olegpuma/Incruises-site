@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="uk">
-<head>
+<head><script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<link href="https://unpkg.com/aos@next/dist/aos.css" rel="stylesheet">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>InCruises з Олегом</title>
