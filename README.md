@@ -84,5 +84,7 @@
     </div>
   </div>
 </section>
-<</body>
+<script>
+  AOS.init();
+</script>
 </html>
