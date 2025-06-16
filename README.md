@@ -71,7 +71,9 @@
     Ми — Олег та Людмила, подружжя, яке обрало стиль життя з InCruises. Разом ми мандруємо світом, допомагаємо іншим відкривати нові горизонти та будуємо фінансову незалежність, працюючи онлайн.  
     Якщо ти теж хочеш поєднати свободу, подорожі та дохід — ми з радістю поділимось досвідом.
   </p>
-</section><section class="section">
+<section class="section" data-aos="fade-up">
+  ...
+</section> class="section">
   <h2>Відгуки учасників</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div style="max-width: 250px; text-align: center;">
