@@ -92,7 +92,7 @@
       <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1" alt="Щасливі мандрівники" style="width: 300px; transition: transform 0.3s;">
     </div>
     <div style="overflow: hidden; border-radius: 10px; transition: transform 0.3s;">
-      <img src="https://images.unsplash.com/photo-1504198453319-5ce911bafcde" alt="Відпочинок на палубі" style="width: 300px; transition: transform 0.3s;">
+      <img>
     </div>
   </div>
 </section>
