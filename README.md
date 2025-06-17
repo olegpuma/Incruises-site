@@ -72,14 +72,7 @@
     Якщо ти теж хочеш поєднати свободу, подорожі та дохід — ми з радістю поділимось досвідом.
   </p>
 <section class="section" style="background-color: #f0f8ff;">
-  <h2 style="text-align: center;">Наші круїзні моменти</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://source.unsplash.com/400x250/?cruise,ship" alt="Круїзний лайнер" style="width: 300px; border-radius: 10px;">
-    <img src="https://source.unsplash.com/400x250/?ocean,sunset" alt="Океан і захід сонця" style="width: 300px; border-radius: 10px;">
-    <img src="https://source.unsplash.com/400x250/?happy,travel" alt="Щасливі мандрівники" style="width: 300px; border-radius: 10px;">
-    <img src="https://source.unsplash.com/400x250/?cruise,vacation" alt="Відпочинок на лайнері" style="width: 300px; border-radius: 10px;">
-  </div>
-</section> <section class="section" style="background-color: #f0f8ff;" data-aos="fade-up">
+  <h2>
   <h2 style="text-align: center;">Наші круїзні моменти</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="overflow: hidden; border-radius: 10px; transition: transform 0.3s;">
