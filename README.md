@@ -57,7 +57,7 @@
   <a href="https://t.me/твій_нік" class="btn">Зв’язатися в Telegram</a>
 </header>
 
-<section class="section">
+<section>
   <h2>Чому обирають InCruises?</h2>
   <ul>
     <li>🌍 Понад 5 000 круїзів у різних куточках світу</li>
@@ -95,4 +95,4 @@
 <script>
   AOS.init();
 </script>
-</html>
+
