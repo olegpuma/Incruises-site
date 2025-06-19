@@ -102,6 +102,6 @@
   </div>
 </section>
 <script>
-  AOS.init();
+  
 </script>
 
