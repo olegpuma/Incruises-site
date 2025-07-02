@@ -1,46 +1,54 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-  <meta charset="UTF-8">
-  <title>InCruises Club</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INCRUISES Клуб Подорожей</title>
 </head>
 <body>
-  <!-- Перемикач мов -->
-  <div class="language-toggle">
-    <select id="language" class="form-select form-select-sm">
-      <option value="uk">🇺🇦 UA</option>
-      <option value="en">🇺🇸 EN</option>
-    </select>
-  </div>
 
-  <!-- Hero -->
-  <section class="hero text-white text-center py-5">
-    <div class="container">
-      <h1 id="hero-title"></h1>
-      <p class="lead" id="hero-subtitle"></p>
-      <a id="cta-button" class="btn btn-light btn-lg" target="_blank">Join</a>
-    </div>
+  <!-- 🏠 Головна -->
+  <header>
+    <h1>Подорожуй світом з INCRUISES</h1>
+    <button>Приєднатись</button>
+  </header>
+
+  <!-- 📄 Про нас -->
+  <section id="about">
+    <h2>Про INCRUISES</h2>
+    <p>INCRUISES — це клуб, який дозволяє подорожувати вигідно та безпечно. Ми поєднуємо мрії з можливостями.</p>
   </section>
 
-  <!-- About -->
-  <section class="py-5">
-    <div class="container">
-      <h2 class="text-center" id="about-title"></h2>
-      <p class="text-center" id="about-text"></p>
-    </div>
+  <!-- 🛳️ Переваги -->
+  <section id="benefits">
+    <h2>Чому обирають нас</h2>
+    <ul>
+      <li>Економія на круїзах</li>
+      <li>Програма лояльності</li>
+      <li>Партнерські можливості</li>
+    </ul>
   </section>
 
-  <!-- Footer -->
-  <footer class="text-center py-4 bg-light">
-    <p>&copy; 2025 InCruises Site by Олег</p>
+  <!-- 🌍 Мови -->
+  <section id="languages">
+    <h2>Оберіть мову</h2>
+    <p>[🇺🇦] [🇬🇧] [🇪🇸] — в майбутньому підключимо перемикач</p>
+  </section>
+
+  <!-- 🔗 Соцмережі -->
+  <section id="social">
+    <h2>Наші соцмережі</h2>
+    <p>Instagram | TikTok | YouTube (посилання пізніше)</p>
+  </section>
+
+  <!-- 📞 Контакти -->
+  <footer>
+    <p>© 2025 INCRUISES Клуб. Усі права захищені.</p>
   </footer>
 
-  <script src="script.js"></script>
 </body>
 </html>
+
 
 
   
